@@ -13,6 +13,11 @@
 ### Hi there 👋
 <h2> I am a Senior majoring in CSE at Konkuk Univ!</h2>
 
+<p><b>✨My Portfolio</b></p>
+<p>
+  <a href="[https://github.com/leeseohoo?tab=repositories](https://www.notion.so/adfaa5abb6784deb8c76fb353255d356)">✨<img src="https://img.shields.io/badge/포트폴리오-000000?style=flat&logo=notion&logoColor=white"/></a>&nbsp
+</p>
+
 <p align="center"><b>✏️I experienced these Programming Languages & Platforms ...</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a>&nbsp 
@@ -42,6 +47,15 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 </p>
 </br>
+
+<p> <b>📜Algorithm study📜</b></p>
+  <p>
+  <a href="[https://github.com/leeseohoo?tab=repositories](https://www.notion.so/9add51f476244ba180872f35d7a8ce81)"><img src="https://img.shields.io/badge/스터디-000000?style=flat&logo=notion&logoColor=white"/>  </a>&nbsp
+</p>
+<p> <b>📜Algorithm club📜</b></p>
+  <p>
+  <a href="[https://github.com/leeseohoo?tab=repositories](https://www.notion.so/AlKon-8be37ecde1964db28ec2b09d399c4a4c)"><img src="https://img.shields.io/badge/동아리-000000?style=flat&logo=notion&logoColor=white"/>  </a>&nbsp
+</p>
 </br>
 
 <p align="center"><b>🌱I'm currently solving Baekjoon ...</b></p>
