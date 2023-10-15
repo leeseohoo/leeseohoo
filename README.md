@@ -53,7 +53,7 @@
   <a href="https://www.notion.so/9add51f476244ba180872f35d7a8ce81?pvs=4"><img src="https://img.shields.io/badge/스터디-000000?style=flat&logo=notion&logoColor=white"/>
   </a>&nbsp
 </p>
-<p> <b>📜Algorithm club📜</b></p>
+<p> <b>📜Algorithm activity📜</b></p>
   <p>
   <a href="https://torch-request-f2e.notion.site/AlKon-8be37ecde1964db28ec2b09d399c4a4c?pvs=4"><img src="https://img.shields.io/badge/동아리-000000?style=flat&logo=notion&logoColor=white"/>
   </a>&nbsp
