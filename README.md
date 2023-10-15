@@ -13,9 +13,9 @@
 ### Hi there 👋
 <h2> I am a Senior majoring in CSE at Konkuk Univ!</h2>
 
-<p><b>✨My Portfolio</b></p>
+<p><b>✨My Portfolio✨</b></p>
 <p>
-  <a href="https://torch-request-f2e.notion.site/adfaa5abb6784deb8c76fb353255d356?pvs=4">✨<img src="https://img.shields.io/badge/포트폴리오-000000?style=flat&logo=notion&logoColor=white"/></a>&nbsp
+  <a href="https://torch-request-f2e.notion.site/adfaa5abb6784deb8c76fb353255d356?pvs=4"><img src="https://img.shields.io/badge/포트폴리오-000000?style=flat&logo=notion&logoColor=white"/></a>&nbsp
 </p>
 
 <p align="center"><b>✏️I experienced these Programming Languages & Platforms ...</b></p>
