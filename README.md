@@ -18,6 +18,15 @@
   <a href="https://torch-request-f2e.notion.site/adfaa5abb6784deb8c76fb353255d356?pvs=4"><img src="https://img.shields.io/badge/포트폴리오-000000?style=flat&logo=notion&logoColor=white"/></a>&nbsp
 </p>
 
+<p align="center"><b>😄I mainly use the following languages ...</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat&logo=javascript&logoColor=white"/></a>&nbsp
+  </br>
+</p>
+</br>
+</br>
+
 <p align="center"><b>✏️I experienced these Programming Languages & Platforms ...</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a>&nbsp 
