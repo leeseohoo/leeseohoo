@@ -67,6 +67,11 @@
   <a href="https://torch-request-f2e.notion.site/AlKon-8be37ecde1964db28ec2b09d399c4a4c?pvs=4"><img src="https://img.shields.io/badge/동아리-000000?style=flat&logo=notion&logoColor=white"/>
   </a>&nbsp
 </p>
+<p> <b>📜Web study by my self📜</b></p>
+  <p>
+  <a href="https://torch-request-f2e.notion.site/React-870e9f85541b48a985e53856303dfb42?pvs=4"><img src="https://img.shields.io/badge/리액트 기초-000000?style=flat&logo=notion&logoColor=white"/>
+  </a>&nbsp
+</p>
 </br>
 
 <p align="center"><b>🌱I'm currently solving Baekjoon ...</b></p>
